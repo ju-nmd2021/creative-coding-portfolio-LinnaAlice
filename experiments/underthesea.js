@@ -26,6 +26,6 @@ function draw() {
   for (let i = 1; i < random(3,7); i++) {
     fill(219, 134, 68);
     ellipse(random(width, 2 * width), random(2 * height + 20, 3 * height + 20), random(14, 25), random(8, 12));
-    noLoop();
   }
+  noLoop();
 }
