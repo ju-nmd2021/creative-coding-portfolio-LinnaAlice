@@ -1,9 +1,9 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
-    "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
-    "github": "https://www.github.com/pixelkind"
+    "file": "experiments/underthesea.js",
+    "name": "Under the Sea",
+    "description": "A representation of the sea and swimming goldfish. The creative process is what has made this artwork to what it is and is also the main purpose behind it; to experiment with shapes and random numbers.",
+    "background": "The inspiration for this artwork is the Un Deux Trois artpiece by Vera Molnar at generativeartistry.com which has a structure of three layers consisting of geometric shapes similar to my artwork.",
+    "github": "https://www.github.com/LinnaAlice"
   }
 ]
