@@ -1,9 +1,9 @@
 [
   {
-    "file": "experiments/underthesea.js",
-    "name": "Under the Sea",
-    "description": "A representation of the sea and swimming goldfish. The creative process is what has made this artwork to what it is and is also the main purpose behind it; to experiment with shapes and random numbers.",
-    "background": "The inspiration for this artwork is the Un Deux Trois artpiece by Vera Molnar at generativeartistry.com which has a structure of three layers consisting of geometric shapes similar to my artwork.",
+    "file": "experiments/tintedglass.js",
+    "name": "Tinted Glass",
+    "description": "",
+    "background": "",
     "github": "https://www.github.com/LinnaAlice"
   }
 ]
