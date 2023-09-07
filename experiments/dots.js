@@ -4,7 +4,7 @@
 let colorsFill = [[109, 192, 209, 100], [184, 109, 209, 100], [204, 106, 176, 100]];
 
 function setup() {
-    createCanvas(width, height);
+    createCanvas(innerWidth, innerHeight);
 }
 
 function draw() {
@@ -13,9 +13,9 @@ function draw() {
     noStroke();
 
     beginShape();
-    for (let xoff = 0; xoff <= width; xoff++) {
-        for (let x = 0; x <= width + 30; x++) {
-            let y = map(noise(xoff), 0, 1, 0, height);
+    for (let xoff = 0; xoff <= innerWidth; xoff++) {
+        for (let x = 0; x <= innerWidth + 30; x++) {
+            let y = map(noise(xoff), 0, 1, 0, innerHeight);
             ellipse(x, y, noise(xoff) * 40);
 
             xoff += 1;
@@ -24,9 +24,9 @@ function draw() {
     endShape();
 
     beginShape();
-    for (let xoff2 = 0; xoff2 <= height; xoff2++) {
-        for (let y = 0; y <= height + 30; y++) {
-            let x = map(noise(xoff2), 0, 1, 0, width);
+    for (let xoff2 = 0; xoff2 <= innerHeight; xoff2++) {
+        for (let y = 0; y <= innerHeight + 30; y++) {
+            let x = map(noise(xoff2), 0, 1, 0, innerWidth);
             ellipse(x, y, noise(xoff2) * 40);
 
             xoff2 += 1;
