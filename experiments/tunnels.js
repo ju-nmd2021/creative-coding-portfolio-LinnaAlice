@@ -1,9 +1,8 @@
+// I followed the tutorials on perlin noise by Daniel Shiffman uploaded on his YouTube channel playlist: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM
+    // However, I made my own changes to create my own artwork
 // The following two lines with the idea of making an array of set colors was adapted from https://www.seekingoutside.com/using-generative-art-to-inform-hard-edge-abstract-paintings-with-p5-js-code-snippet/ Accessed: 2023-09-01
 let colorsFill = [[109, 192, 209, 100], [184, 109, 209, 100], [204, 106, 176, 100]];
 let colorsStroke = [[82, 40, 70], [81, 48, 99], [49, 95, 102]];
-
-// I followed the tutorials on perlin noise by Daniel Shiffman uploaded on his YouTube channel playlist: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM
-    // However, I made my own changes to create my own artwork
 
 function setup() {
     createCanvas(innerWidth, innerHeight);

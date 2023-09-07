@@ -19,5 +19,12 @@
     "description": "Tunnels coming from left and above.",
     "background": "Perlin noise",
     "github": "https://www.github.com/LinnaAlice"
+  },
+  {
+    "file": "experiments/dots.js",
+    "name": "Dots",
+    "description": "Dots coming from left and above.",
+    "background": "Perlin noise",
+    "github": "https://www.github.com/LinnaAlice"
   }
 ]
