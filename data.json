@@ -2,8 +2,22 @@
   {
     "file": "experiments/tintedglass.js",
     "name": "Tinted Glass",
-    "description": "",
+    "description": "Multiple tinted glass windows layered on top of one another.",
     "background": "",
+    "github": "https://www.github.com/LinnaAlice"
+  },
+  {
+    "file": "experiments/walkingcircles.js",
+    "name": "Walking Circles",
+    "description": "Circles walking around on the canvas.",
+    "background": "Perlin noise - I was inspired by the Random Walker made by Daniel Shiffman from the video https://www.youtube.com/watch?v=l__fEY1xanY&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=9&pp=iAQB",
+    "github": "https://www.github.com/LinnaAlice"
+  },
+  {
+    "file": "experiments/tunnels.js",
+    "name": "Tunnels",
+    "description": "Tunnels coming from left and above.",
+    "background": "Perlin noise",
     "github": "https://www.github.com/LinnaAlice"
   }
 ]
