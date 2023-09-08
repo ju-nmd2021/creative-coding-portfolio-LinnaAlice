@@ -33,5 +33,12 @@
     "description": "Dots coming from left and above.",
     "background": "Perlin noise",
     "github": "https://www.github.com/LinnaAlice"
+  },
+  {
+    "file": "experiments/underthesea.js",
+    "name": "Under the Sea",
+    "description": "Goldfish swimming in the deep waters. Try clicking the screen :)",
+    "background": "Ellipses + random() = This piece of art",
+    "github": "https://www.github.com/LinnaAlice"
   }
 ]
