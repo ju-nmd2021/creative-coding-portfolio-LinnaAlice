@@ -2,7 +2,7 @@
   {
     "file": "experiments/laserlights.js",
     "name": "Laser Lights",
-    "description": "Laser pointing in random directions with a background light source.",
+    "description": "Laser pointing in random directions with a background light source. Try clicking the screen :)",
     "background": "Random generated vectors on a 2D canvas.",
     "github": "https://www.github.com/LinnaAlice"
   },
