@@ -23,8 +23,8 @@
   {
     "file": "experiments/tunnels.js",
     "name": "Tunnels",
-    "description": "Tunnels coming from left and above.",
-    "background": "Perlin noise",
+    "description": "Tunnels, horizontal and vertical",
+    "background": "Perlin noise in 1D, giving an illusion of 3D.",
     "github": "https://www.github.com/LinnaAlice"
   },
   {
