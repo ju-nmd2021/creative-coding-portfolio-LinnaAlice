@@ -29,3 +29,7 @@ function draw() {
   }
   noLoop();
 }
+
+function mousePressed() {
+  loop();
+}
