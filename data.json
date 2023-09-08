@@ -1,5 +1,12 @@
 [
   {
+    "file": "experiments/laserlights.js",
+    "name": "Laser Lights",
+    "description": "Laser pointing in random directions with a background light source.",
+    "background": "Random generated vectors on a 2D canvas.",
+    "github": "https://www.github.com/LinnaAlice"
+  },
+  {
     "file": "experiments/tintedglass.js",
     "name": "Tinted Glass",
     "description": "Multiple tinted glass windows layered on top of one another.",
