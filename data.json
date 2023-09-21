@@ -35,6 +35,13 @@
     "github": "https://www.github.com/LinnaAlice"
   },
   {
+    "file": "experiments/levysound.js",
+    "name": "Lévy with Sound",
+    "description": "Draw with the mouse! Notes will play randomly.",
+    "background": "Inspired by Random Walker with Lévy Flight at https://www.youtube.com/watch?v=bqF9w9TTfeo&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=18&ab_channel=TheCodingTrain",
+    "github": "https://www.github.com/LinnaAlice"
+  },
+  {
     "file": "experiments/dots.js",
     "name": "Dots",
     "description": "Dots coming from left and above.",
