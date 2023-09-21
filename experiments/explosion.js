@@ -29,7 +29,7 @@ function draw() {
     randomVectors.mult(random(30, 950));
 
     noFill();
-    strokeWeight(2);
+    strokeWeight(random(0.5, 4));
     stroke(random(colors));
     line(0, 0, randomVectors.x, randomVectors.y);
     ellipse(0, 0, randomVectors.x, randomVectors.y);
