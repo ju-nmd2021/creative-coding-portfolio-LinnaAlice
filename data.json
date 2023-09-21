@@ -7,6 +7,13 @@
     "github": "https://www.github.com/LinnaAlice"
   },
   {
+    "file": "experiments/explosion.js",
+    "name": "Explosion",
+    "description": "I played around with the code from the previous art piece. Try clicking the screen :)",
+    "background": "Random generated vectors on a 2D canvas. Both ellipses and lines",
+    "github": "https://www.github.com/LinnaAlice"
+  },
+  {
     "file": "experiments/tintedglass.js",
     "name": "Tinted Glass",
     "description": "Multiple tinted glass windows layered on top of one another.",
