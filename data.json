@@ -14,6 +14,13 @@
     "github": "https://www.github.com/LinnaAlice"
   },
   {
+    "file": "experiments/atom.js",
+    "name": "Atom",
+    "description": "An atom! (A variation of the previous art piece). Try clicking the screen :)",
+    "background": "Random generated vectors on a 2D canvas.",
+    "github": "https://www.github.com/LinnaAlice"
+  },
+  {
     "file": "experiments/tintedglass.js",
     "name": "Tinted Glass",
     "description": "Multiple tinted glass windows layered on top of one another.",
