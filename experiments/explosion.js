@@ -15,7 +15,7 @@ function setup() {
 }
 
 function draw() {
-  background(9, 22, 28);
+  background(10, 4, 3);
   translate(innerWidth / 2, innerHeight / 2);
 
   for (let i = 0; i < 30; i++) {
